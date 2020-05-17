@@ -1,8 +1,7 @@
 #pragma once
 #include <M5Stack.h>
 
-class Battery
-{
+class Battery {
 private:
     uint16_t _full[162] = {
         0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000,
@@ -67,5 +66,7 @@ private:
 
 public:
     uint8_t getBatteryLevel();
-    uint8_t drawBatteryLevel();
+    uint16_t * getBatteryLevelBitmap();
+    static const int16_t width;
+    static const int16_t height;
 };

@@ -1,5 +1,8 @@
 #include "Battery.h"
 
+const int16_t Battery::width = 18;
+const int16_t Battery::height = 9;
+
 uint8_t Battery::getBatteryLevel()
 {
     Wire.beginTransmission(0x75);
@@ -18,7 +21,7 @@ uint8_t Battery::getBatteryLevel()
     return 0xff;
 }
 
-uint8_t Battery::drawBatteryLevel()
+uint16_t * Battery::getBatteryLevelBitmap()
 {
     uint8_t level = this->getBatteryLevel();
     uint16_t *bmp;
@@ -43,6 +46,5 @@ uint8_t Battery::drawBatteryLevel()
         bmp = _error;
         break;
     }
-    M5.Lcd.drawBitmap(320 - 18, 0, 18, 9, bmp);
-    return level;
+    return bmp;
 }

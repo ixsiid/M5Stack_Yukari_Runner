@@ -1,0 +1,26 @@
+{
+    "yukari_run_right_0": {
+        "path": "../../extra/bmp/ゆかり_走り_右/00000001.bmp",
+        "type": "bmp"
+    },
+    "yukari_run_right_1": {
+        "path": "../../extra/bmp/ゆかり_走り_右/00000002.bmp",
+        "type": "bmp"
+    },
+    "yukari_run_right_2": {
+        "path": "../../extra/bmp/ゆかり_走り_右/00000003.bmp",
+        "type": "bmp"
+    },
+    "yukari_run_right_3": {
+        "path": "../../extra/bmp/ゆかり_走り_右/00000004.bmp",
+        "type": "bmp"
+    },
+    "yukari_run_right_4": {
+        "path": "../../extra/bmp/ゆかり_走り_右/00000005.bmp",
+        "type": "bmp"
+    },
+    "yukari_run_right_5": {
+        "path": "../../extra/bmp/ゆかり_走り_右/00000006.bmp",
+        "type": "bmp"
+    }
+}

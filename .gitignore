@@ -37,3 +37,6 @@
 .vscode/launch.json
 .vscode/ipch
 
+extra/mov
+extra/bmp
+lib/Resources/src/*
