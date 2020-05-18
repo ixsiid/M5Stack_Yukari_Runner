@@ -1,26 +1,52 @@
 {
     "yukari_run_right_0": {
-        "path": "../../extra/bmp/ゆかり_走り_右/00000001.bmp",
+        "path": "../../extra/bmp/ゆかり_歩き_右/00000005.bmp",
         "type": "bmp"
     },
     "yukari_run_right_1": {
-        "path": "../../extra/bmp/ゆかり_走り_右/00000002.bmp",
+        "path": "../../extra/bmp/ゆかり_歩き_右/00000010.bmp",
         "type": "bmp"
     },
     "yukari_run_right_2": {
-        "path": "../../extra/bmp/ゆかり_走り_右/00000003.bmp",
+        "path": "../../extra/bmp/ゆかり_歩き_右/00000015.bmp",
         "type": "bmp"
     },
     "yukari_run_right_3": {
-        "path": "../../extra/bmp/ゆかり_走り_右/00000004.bmp",
+        "path": "../../extra/bmp/ゆかり_歩き_右/00000020.bmp",
         "type": "bmp"
     },
     "yukari_run_right_4": {
-        "path": "../../extra/bmp/ゆかり_走り_右/00000005.bmp",
+        "path": "../../extra/bmp/ゆかり_歩き_右/00000025.bmp",
         "type": "bmp"
     },
     "yukari_run_right_5": {
-        "path": "../../extra/bmp/ゆかり_走り_右/00000006.bmp",
+        "path": "../../extra/bmp/ゆかり_歩き_右/00000030.bmp",
+        "type": "bmp"
+    },
+
+    
+    "maki_run_right_0": {
+        "path": "../../extra/bmp/マキ_走り_右/00000004.bmp",
+        "type": "bmp"
+    },
+    "maki_run_right_1": {
+        "path": "../../extra/bmp/マキ_走り_右/00000008.bmp",
+        "type": "bmp"
+    },
+    "maki_run_right_2": {
+        "path": "../../extra/bmp/マキ_走り_右/00000012.bmp",
+        "type": "bmp"
+    },
+    "maki_run_right_3": {
+        "path": "../../extra/bmp/マキ_走り_右/00000016.bmp",
+        "type": "bmp"
+    },
+    "maki_run_right_4": {
+        "path": "../../extra/bmp/マキ_走り_右/00000020.bmp",
+        "type": "bmp"
+    },
+    "maki_run_right_5": {
+        "path": "../../extra/bmp/マキ_走り_右/00000024.bmp",
         "type": "bmp"
     }
 }
